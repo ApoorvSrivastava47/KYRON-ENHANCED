@@ -1,0 +1,6 @@
+{
+  "name": "KYRON - Workforce Stability Prediction & Analytics Engine",
+  "description": "AI-powered workforce retention analytics and employee attrition prediction dashboard built with React and trained Logistic Regression on IBM HR Analytics data.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
